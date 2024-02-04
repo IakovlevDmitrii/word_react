@@ -1,0 +1,30 @@
+/* ---------- colors ---------- */
+
+$color__1: rgba(217, 217, 217, 1);         //#d9d9d9
+$color__2: rgba(232, 232, 232, 1);         //#e8e8e8
+$color__3: rgba(191, 191, 191, 1);         //#bfbfbf
+$color__4: rgba(245, 34, 45, 1);           //#F5222D
+$color__5: rgba(13, 107, 255, 1);          //#0d6bff
+
+$color__6: blue;         //#d9d9d9
+$color__7: tomato;         //#e8e8e8
+$color__8: green;         //#bfbfbf
+$color__9: purple;           //#F5222D
+$color__10: orange;          //#0d6bff
+
+$noun-color: $color__6;
+$verb-color: $color__7;
+$pronoun-color: $color__8;
+$preposition-color: $color__9;
+$conjunction-color: $color__10;
+$adjective-color: yellow;
+$adverb-color: pink;
+$interjection-color: tan;
+
+/* ---------- screen sizes ---------- */
+
+$screen-sm: 'min-width: 576px';
+$screen-md: 'min-width: 768px';
+$screen-lg: 'min-width: 992px';
+$screen-xl: 'min-width: 1200px';
+$screen-xxl: 'min-width: 1400px';

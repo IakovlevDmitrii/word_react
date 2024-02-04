@@ -1,0 +1,33 @@
+@import '../../styles/const.module';
+
+article {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   width: 100vw;
+}
+.noun {
+   color: $noun-color,
+}
+.verb {
+   color: $verb-color,
+}
+.pronoun {
+   color: $pronoun-color,
+}
+.preposition {
+   color: $preposition-color,
+}
+.conjunction {
+   color: $conjunction-color,
+}
+.adjective {
+   color: $adjective-color,
+}
+.adverb {
+   color: $adverb-color,
+}
+.interjection {
+   color: $interjection-color,
+}

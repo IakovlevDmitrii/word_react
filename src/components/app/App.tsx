@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from '../card';
-import './App.css';
+import '../../styles/index.module.scss';
 
 function App() {
 

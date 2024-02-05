@@ -6,7 +6,8 @@ interface CardProps {
     lexicalCategory: string,
 }
 
-function Card({ word, lexicalCategory }: CardProps){
+function Card({ card }: { card: CardProps }) {
+    const { word, lexicalCategory } = card;
 
     return (
         <article>
